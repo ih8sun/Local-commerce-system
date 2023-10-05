@@ -16,6 +16,6 @@ To use it, you must have these tools installed. Also, you need to adjust the dat
 
 # Some images from the Project
 
-https://github.com/ih8sun/local-commerce-system/blob/6ba63467afcab0d334bf1f258629880f7c4e1d5b/Iconos%20Nuevos/Principal1.png
-https://github.com/ih8sun/local-commerce-system/blob/6ba63467afcab0d334bf1f258629880f7c4e1d5b/Iconos%20Nuevos/Principal2.png
-https://github.com/ih8sun/local-commerce-system/blob/6ba63467afcab0d334bf1f258629880f7c4e1d5b/Iconos%20Nuevos/Principal3.png
+![img1](https://github.com/ih8sun/local-commerce-system/blob/6ba63467afcab0d334bf1f258629880f7c4e1d5b/Iconos%20Nuevos/Principal1.png)
+![img2](https://github.com/ih8sun/local-commerce-system/blob/6ba63467afcab0d334bf1f258629880f7c4e1d5b/Iconos%20Nuevos/Principal2.png)
+![img3](https://github.com/ih8sun/local-commerce-system/blob/6ba63467afcab0d334bf1f258629880f7c4e1d5b/Iconos%20Nuevos/Principal3.png)
